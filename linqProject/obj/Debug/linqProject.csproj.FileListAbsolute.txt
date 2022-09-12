@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\linqProject\linqProject\bin\Debug\linqProject.exe.config
+C:\Users\Administrator\source\repos\linqProject\linqProject\bin\Debug\linqProject.exe
+C:\Users\Administrator\source\repos\linqProject\linqProject\bin\Debug\linqProject.pdb
+C:\Users\Administrator\source\repos\linqProject\linqProject\obj\Debug\linqProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\linqProject\linqProject\obj\Debug\linqProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\linqProject\linqProject\obj\Debug\linqProject.Form1.resources
+C:\Users\Administrator\source\repos\linqProject\linqProject\obj\Debug\linqProject.Properties.Resources.resources
+C:\Users\Administrator\source\repos\linqProject\linqProject\obj\Debug\linqProject.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\linqProject\linqProject\obj\Debug\linqProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\linqProject\linqProject\obj\Debug\linqProject.exe
+C:\Users\Administrator\source\repos\linqProject\linqProject\obj\Debug\linqProject.pdb
